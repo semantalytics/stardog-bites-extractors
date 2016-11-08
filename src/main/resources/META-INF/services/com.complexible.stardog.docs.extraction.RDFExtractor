@@ -1,0 +1,4 @@
+com.semantalytics.stardog.docs.extraction.JsonDocumentExtractor
+com.semantalytics.stardog.docs.extraction.RdfDocumentExtractor
+com.semantalytics.stardog.docs.extraction.XmlDocumentExtractor
+com.semantalytics.stardog.docs.extraction.JavaClassExtractor
